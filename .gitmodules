@@ -1,0 +1,3 @@
+[submodule "WikiGenomesBase"]
+	path = WikiGenomesBase
+	url = https://github.com/SuLab/WikiGenomesBase.git
